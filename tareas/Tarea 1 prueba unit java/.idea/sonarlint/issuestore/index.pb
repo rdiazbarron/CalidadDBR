@@ -20,3 +20,5 @@ w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 Å
 Q.idea/sonarlint/securityhotspotstore/6/8/6809dd628782cd256ac5792ad984e08b0221669b,8\e\8e85dc07c7d279dfa460a0f3490c4c6523975473
+A
+pruebasjunit2.iml,5\5\55673118fc0b4a158ea4015be137dfae09c8f4b0
